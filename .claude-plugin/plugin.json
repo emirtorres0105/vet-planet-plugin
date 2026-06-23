@@ -1,0 +1,17 @@
+{
+  "name": "vet-planet",
+  "version": "1.0.0",
+  "description": "Asistente clinico de la Clinica Veterinaria Vet Planet (Cartago, Costa Rica). Genera informes clinicos en PDF con la identidad visual de la clinica (informe de control para propietario, informe medico-a-medico, epicrisis) y resuelve consultas de dosificacion y manejo con dosis verificadas y umbrales por especie. Incluye la metodologia clinica completa (analisis por tendencia, 3 diferenciales, 3 opciones de manejo, citacion de evidencia).",
+  "author": {
+    "name": "Clinica Veterinaria Vet Planet",
+    "email": "clinicaveterinaria@vetplanetcr.com"
+  },
+  "keywords": [
+    "veterinaria",
+    "informes-clinicos",
+    "pdf",
+    "dosificacion",
+    "vet-planet",
+    "medicina-veterinaria"
+  ]
+}

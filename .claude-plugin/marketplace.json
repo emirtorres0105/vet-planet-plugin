@@ -1,0 +1,13 @@
+{
+  "name": "vet-planet-marketplace",
+  "owner": {
+    "name": "Clinica Veterinaria Vet Planet"
+  },
+  "plugins": [
+    {
+      "name": "vet-planet",
+      "source": "./",
+      "description": "Asistente clinico Vet Planet: informes en PDF (control, medico-a-medico, epicrisis), dosificacion verificada y metodologia clinica."
+    }
+  ]
+}

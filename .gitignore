@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales / salidas de prueba
+*.tmp
+/tmp/
+test_*.pdf
