@@ -18,16 +18,16 @@ En tu sesión de Claude, verificá que estén activos:
 
 ## Instalar el plugin (desde GitHub)
 
+> No necesitás cuenta de GitHub, login ni invitación: el repositorio es público.
+
 1. Abrí **Customize** en la barra lateral → pestaña **Plugins**.
 2. En *Personal plugins*, tocá **"+"** → **Add marketplace**.
-3. Pegá la URL del repositorio del plugin (te la comparte la clínica). Como el
-   repositorio es **privado**, necesitás haber aceptado la invitación de
-   colaborador en GitHub y tener tu cuenta de GitHub conectada.
+3. Pegá la URL del repositorio:
+   `https://github.com/emirtorres0105/vet-planet-plugin`
 4. Una vez agregado el marketplace, buscá el plugin **vet-planet** e instalalo.
 5. Dejalo **habilitado**.
 
-> Si el repositorio es privado y no carga, confirmá que aceptaste la invitación
-> de GitHub y que tu cuenta está vinculada.
+> Si no carga, revisá que pegaste la URL completa y que tenés conexión a internet.
 
 ---
 
